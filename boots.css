@@ -1,0 +1,15 @@
+*{
+    background-color: lightcyan;
+}
+.error{
+    color: red;
+    font: size 16px;
+    margin-top: 5px;
+
+}
+.form-floating.success input{
+border-color: #01fe01;
+}
+.form-floating.error input{
+    border-color: #fd0808;
+}
